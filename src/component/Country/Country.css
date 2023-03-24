@@ -1,0 +1,13 @@
+.Country-design{
+  border: solid 1px gray;
+  padding: 0px;
+  background-color: lightpink;
+  border-radius: 10px;
+}
+.header{
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+}
+img{
+  width: 150px;
+}
